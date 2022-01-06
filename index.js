@@ -17,6 +17,7 @@ app.use(express.json())
 app.use(express.static('public'))
 
 app.use('/tasks', tasksRotes)
+app.use('/', tasksRotes)
 conn.sync()
 .then(()=> {
     app.listen(3000)
