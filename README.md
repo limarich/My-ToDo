@@ -43,3 +43,16 @@ npm install
 #inicie a aplicação
 npm start
 </pre>
+<br>
+<p>Feito por Richard Lima Ribeiro</p>
+<span>
+  Contatos
+</span>  
+<br>
+<a href="https://limarich.github.io/My-ToDo/">Página do projeto</a>
+<br>
+<a href="https://www.linkedin.com/in/richard-lima-488b451a8/">Linkedin</a>
+<br>
+<a href="https://github.com/limarich/">github</a>
+<br>
+  <p font-weight="700">richard.esclima@gmail.com</p>
