@@ -1,0 +1,25 @@
+<h1>Todas as Tasks</h1>
+<ul class="task-list">
+    {{#each tasks}}
+        <li>
+            {{#if this.done}}
+            <a href="tasks/view/{{this.id}}" class="title done">{{this.title}}</a>
+            {{else}}
+            <a href="tasks/view/{{this.id}}" class="title">{{this.title}}</a>
+            {{/if}}
+            <div class="actions">
+                <form action="/tasks/updateStatus" method="post">
+                    <input type="hidden" value={{this.id}} name="id">
+                    <input type="hidden" value={{this.done}} name="done">
+
+                    <button type="submit" ><i class="bi bi-check"></i></button>
+                </form>
+                <a href="/tasks/edit/{{this.id}}"><i class="bi bi-pencil-square"></i></a>
+                <form action="/tasks/remove" method="post">
+                    <input type="hidden" value={{this.id}} name="id">
+                    <button type="submit"><i class="bi bi-x-lg"></i></button>
+                </form>
+            </div>
+        </li>
+    {{/each}}
+</ul>

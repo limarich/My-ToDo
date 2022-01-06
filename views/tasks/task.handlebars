@@ -1,0 +1,8 @@
+<div class="task">
+    {{#if task.done}}
+    <h1 class="title-done">{{task.title}}</h1>
+    {{else}}
+    <h1 class="title">{{task.title}}</h1>
+    {{/if}}
+    <p>{{task.description}}</p>
+</div>
