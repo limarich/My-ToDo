@@ -3,9 +3,9 @@
     {{#each tasks}}
         <li>
             {{#if this.done}}
-            <a href="tasks/view/{{this.id}}" class="title done">{{this.title}}</a>
+            <a href="/view/{{this.id}}" class="title done">{{this.title}}</a>
             {{else}}
-            <a href="tasks/view/{{this.id}}" class="title">{{this.title}}</a>
+            <a href="/view/{{this.id}}" class="title">{{this.title}}</a>
             {{/if}}
             <div class="actions">
                 <form action="/tasks/updateStatus" method="post">
