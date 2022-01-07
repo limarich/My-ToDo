@@ -50,8 +50,8 @@ npm start
 </span>  
 <br>
 <p align="center">
-<a href="https://limarich.github.io/My-ToDo/">Página do projeto</a>
-<a href="https://www.linkedin.com/in/richard-lima-488b451a8/">Linkedin</a>
-<a href="https://github.com/limarich/">github</a>
-<a href="mailto:richard.esclima@gmail.com">e-mail</a>
+| <a href="https://limarich.github.io/My-ToDo/">Página do projeto</a> | 
+<a href="https://www.linkedin.com/in/richard-lima-488b451a8/">Linkedin</a> | 
+<a href="https://github.com/limarich/">github</a> |
+<a href="mailto:richard.esclima@gmail.com">e-mail</a> |
 </p>
