@@ -4,6 +4,7 @@
   <a href="#sobre">| Sobre |</a>
   <a href="#tecnologias"> Tecnologias |</a>
   <a href="#tutorial"> Como usar |</a>
+  <a href="https://limarich.github.io/My-ToDo/">Página do projeto</a>|
 </p>
 <hr>
 <h4>Sobre</h4>
