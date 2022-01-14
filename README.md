@@ -13,6 +13,7 @@ Basicamente o usuário tem três ações principais:<ul><li>Criar uma nova taref
 Ao acessar o painel principal é possível visualizar por ordem de criação, todas as tarefas já criadas.
 </p>
 <hr>
+<img src="https://github.com/limarich/My-ToDo/blob/main/Anima%C3%A7%C3%A3o.gif" />
 <h4>Tecnologias</h4>
 <p>
 Para a construção deste projeto foram usadas as tecnologias:
