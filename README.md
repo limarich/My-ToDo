@@ -36,22 +36,33 @@ Para fazer uso do projeto siga os seguintes passos:
 <pre>
 #clone este repositório
 https://github.com/limarich/My-ToDo.git
+</pre>
+<pre>
 #baixe as dependencias
 npm install
+</pre>
+<pre>
 #inicie Mysql no xamp!
-[image](https://user-images.githubusercontent.com/59461895/148439268-2557bf03-b0e1-4b36-80c6-91b36e2427b4.png)
+#crie o banco de dados com o nome indicado:
+ CREATE DATABASE nodemvc
+ </pre>
+ <pre>
 #inicie a aplicação
 npm start
 </pre>
+
+> Execute  <a href="http://localhost:3000/">localhost:3000</a> no navegador
+
+**Contatos** 
+- <a href="https://limarich.github.io/My-ToDo/">Página do projeto</a>
+- <a href="https://www.linkedin.com/in/richard-lima-488b451a8/">Linkedin</a>
+- <a href="https://github.com/limarich/">github</a> 
+- <a href="mailto:richard.esclima@gmail.com">e-mail</a>
+
+------------
+
+
 <br>
-<p>Feito por Richard Lima Ribeiro</p>
-<span>
-  Contatos
-</span>  
-<br>
-<p align="center">
-| <a href="https://limarich.github.io/My-ToDo/">Página do projeto</a> | 
-<a href="https://www.linkedin.com/in/richard-lima-488b451a8/">Linkedin</a> | 
-<a href="https://github.com/limarich/">github</a> |
-<a href="mailto:richard.esclima@gmail.com">e-mail</a> |
-</p>
+
+<p>Feito por Richard Lima Ribeiro, baseado em: <a href="https://github.com/matheusbattisti?tab=repositories">@matheusbattisti</a></p>
+
